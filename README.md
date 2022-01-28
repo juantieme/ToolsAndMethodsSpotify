@@ -6,6 +6,7 @@ We did that by first inputting the unique ID into the API. After creating a play
 
 With this information we created various subdatasets containing converting the dataset to suit different visualization models. This was done using the 'CodeForConversionToVisualization.ipynb' notebook. The resulting CSV files can be found in the 'cooked data' directory.
 
-We used these datasets to make visualizations on the website [Flourish](https://flourish.studio/examples/) and used these for our further analysis.
+We used these datasets to make visualizations on the website [Flourish](https://flourish.studio/examples/) and used these for our further analysis. PNG versions of the visuals can be found in the 'visualization' directory.
 
-The result of the analysis has been published on a github pages website found [here.](https://juantieme.github.io/project.html)
+The result of the analysis has been published on a github pages website found [here.](https://juantieme.github.io/project.html). 
+The basis of the github page can be found on another repository found [here](https://github.com/juantieme/juantieme.github.io)
